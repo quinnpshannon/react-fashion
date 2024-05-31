@@ -1,0 +1,21 @@
+html {
+    border-left: 5px lightgray;
+}
+body {
+    min-height: 100%;
+    font-family: sans-serif;
+    max-width: 1000px;
+    margin: auto;
+}
+header,main,footer {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+h1 {
+    color: tomato;
+}
+img {
+    width: 100%;
+}

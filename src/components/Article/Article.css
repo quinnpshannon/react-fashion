@@ -1,0 +1,21 @@
+/* This is where we STYLE the Articles */
+article div {
+    margin-bottom: 4rem;
+    padding-bottom: 2rem;
+    border-bottom: solid 1px lightgrey;
+}
+article div a{
+    color: tomato;
+    margin-left: auto;
+}
+article p::first-letter{
+    color:lightgrey;
+    initial-letter: 4;
+    padding-right: 1em;
+}
+article div h2 {
+    color:black;
+}
+article div h3 {
+    color: lightgrey;
+}
