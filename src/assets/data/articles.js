@@ -7,7 +7,7 @@ export const articles = [
         title: "On the Street in Brooklyn",
         img: image1,
         text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente dolore voluptatibus quas ipsa aliquam sed nemo, provident quam eveniet, facilis unde? Deserunt vero magni aliquid earum! Expedita blanditiis impedit voluptatibus.",
-        link: "http://www.google.com"
+        link: "#"
     },
     {
         key: 2,
@@ -15,6 +15,6 @@ export const articles = [
         title: "Vintage in Vogue",
         img: image2,
         text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente dolore voluptatibus quas ipsa aliquam sed nemo, provident quam eveniet, facilis unde? Deserunt vero magni aliquid earum! Expedita blanditiis impedit voluptatibus.",
-        link: "http://www.google.com"
+        link: "#"
     }
 ]

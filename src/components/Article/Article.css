@@ -4,9 +4,10 @@ article div {
     padding-bottom: 2rem;
     border-bottom: solid 1px lightgrey;
 }
-article div a{
+a{
+    display: flex;
     color: tomato;
-    margin-left: auto;
+    justify-content: end;
 }
 article p::first-letter{
     color:lightgrey;
